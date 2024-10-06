@@ -1,0 +1,10 @@
+int main(){
+//This is a sinle line comment
+printf("Welcome to HEll\n");
+/*I
+Hate
+RV
+College
+*/
+int a,b;
+}
