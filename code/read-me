@@ -1,0 +1,11 @@
+All the working codes are here
+Commands to execute
+For both LEX and YACC
+	  lex program1.l
+    yacc -d program1.y
+    gcc  lex.yy.c y.tab.c -ll
+  ./a.out
+For LEX
+    lex prog.l
+    gcc lex.yy.c
+    ./a.out
